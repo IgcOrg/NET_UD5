@@ -1,2 +1,0 @@
-C:\Users\Iago\Source\Repos\igc88\NET_UD5\U5\obj\Debug\U5.csprojAssemblyReference.cache
-C:\Users\Iago\Source\Repos\igc88\NET_UD5\U5\obj\Debug\U5.csproj.CoreCompileInputs.cache
