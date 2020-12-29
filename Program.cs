@@ -37,8 +37,11 @@ namespace U5 {
             //E10 ex10 = new E10();
             //ex10.init();
 
-            E11 ex11 = new E11();
-            ex11.init();
+            //E11 ex11 = new E11();
+            //ex11.init();
+
+            E12 ex12 = new E12();
+            ex12.init();
 
             Console.ReadKey();
         }
