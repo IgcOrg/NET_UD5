@@ -5,17 +5,33 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace U5 {
-    class E13 {
+    class E14 {
         public void init() {
             int[] array = new int[10];
+            int userNumber = 0;
+
+            array = arrayFill(array);
+
+            Console.WriteLine("Intente adivinar un número del array: ");
+            userNumber = int.Parse(Console.ReadLine());
+
+            if (array.Contains(userNumber)) {
+                Console.WriteLine("Has acertado.");
+            } else {
+                Console.WriteLine("Has fallado.");
+            }
+
+            showArray(array);
+        }        
+
+        public int[] arrayFill(int[] array) {
             Random rnd = new Random();
 
-            for (int i=0; i<array.Length; i++) {
+            for (int i = 0; i < array.Length; i++) {
                 array[i] = rnd.Next(1, 10);
             }
 
-            Console.WriteLine("El array de números aleatorios es: ");
-            showArray(array);
+            return array;
         }
 
         public void showArray(int[] array) {
