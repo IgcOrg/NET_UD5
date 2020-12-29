@@ -19,8 +19,11 @@ namespace U5 {
             //E4 ex4 = new E4();
             //ex4.init();
 
-            E5 ex5 = new E5();
-            ex5.init();
+            //E5 ex5 = new E5();
+            //ex5.init();
+
+            E6 ex6 = new E6();
+            ex6.init();
 
             Console.ReadKey();
         }
