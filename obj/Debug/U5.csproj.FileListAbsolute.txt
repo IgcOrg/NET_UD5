@@ -5,3 +5,10 @@ C:\Users\Iago\source\repos\U5\U5\obj\Debug\U5.csprojAssemblyReference.cache
 C:\Users\Iago\source\repos\U5\U5\obj\Debug\U5.csproj.CoreCompileInputs.cache
 C:\Users\Iago\source\repos\U5\U5\obj\Debug\U5.exe
 C:\Users\Iago\source\repos\U5\U5\obj\Debug\U5.pdb
+C:\Users\Iago\source\repos\igc88\NET_UD5\bin\Debug\U5.exe.config
+C:\Users\Iago\source\repos\igc88\NET_UD5\bin\Debug\U5.exe
+C:\Users\Iago\source\repos\igc88\NET_UD5\bin\Debug\U5.pdb
+C:\Users\Iago\source\repos\igc88\NET_UD5\obj\Debug\U5.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\igc88\NET_UD5\obj\Debug\U5.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\igc88\NET_UD5\obj\Debug\U5.exe
+C:\Users\Iago\source\repos\igc88\NET_UD5\obj\Debug\U5.pdb
