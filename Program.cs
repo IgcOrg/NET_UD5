@@ -28,8 +28,11 @@ namespace U5 {
             //E7 ex7 = new E7();
             //ex7.init();
 
-            E8 ex8 = new E8();
-            ex8.init();
+            //E8 ex8 = new E8();
+            //ex8.init();
+
+            E9 ex9 = new E9();
+            ex9.init();
 
             Console.ReadKey();
         }
