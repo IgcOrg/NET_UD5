@@ -49,6 +49,7 @@
     <Compile Include="E5\E5.cs" />
     <Compile Include="E4\E4.cs" />
     <Compile Include="E6\E6.cs" />
+    <Compile Include="E7\E7.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
