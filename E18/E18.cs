@@ -44,7 +44,7 @@ namespace U5 {
                 }
             }
 
-            Console.Write("]");
+            Console.WriteLine("]");
         }
 
         public void showSum() {
