@@ -11,7 +11,7 @@ namespace U5 {
         public void init() {
             int size = 0;
 
-            Console.WriteLine("Bienvenido, al ejercicio 19, por favor, introduzca el tamaño de su array: ");
+            Console.WriteLine("Bienvenido al ejercicio 19, por favor, introduzca el tamaño de su array: ");
             size = int.Parse(Console.ReadLine());
 
             arrayFill(size);
